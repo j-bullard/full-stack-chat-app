@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-chat-app-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^9.1.0",
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
